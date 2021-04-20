@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @agcarvr
-- 👀 I’m interested in API's and back end engineering
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: email agcarvr@gmail.com
+- Hi, I’m Erin
+- I’m interested in machine learning and full stack engineering
+- I’m currently learning full stack development
+- How to reach me: email agcarvr@gmail.com
+- To view some of my practice work:
+- Visit my codeSandbox(https://codesandbox.io/dashboard/home?workspace=ef82cfc1-7634-4287-9814-56a7ac621125)
+- Or my REPL (https://replit.com/@aaroncarver)
 
 <!---
 agcarvr/agcarvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
