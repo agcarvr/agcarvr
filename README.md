@@ -1,4 +1,4 @@
-- Hi, I’m Aaron
+- Hi, I’m Erin
 - I’m interested in machine learning and full stack engineering
 - I’m currently learning full stack development
 - How to reach me: email agcarvr@gmail.com
