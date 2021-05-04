@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agcarvr&layout=compact)](https://github.com/yourUserName/github-readme-stats)
+
 - Hi, I’m Erin
 - I’m interested in machine learning and full stack engineering
 - I’m currently learning full stack development
