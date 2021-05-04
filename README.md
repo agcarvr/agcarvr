@@ -4,7 +4,7 @@
 - I’m currently working in full stack development
 - How to reach me: email agcarvr@gmail.com
 
-[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agcarvr)](https://github.com/agcarvr/github-readme-stats&hide=contribs,stars,issues)
+[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agcarvr&hide=stars,issues)](https://github.com/agcarvr/github-readme-stats)
 
 ## To view some of my practice work:
 - Visit my codeSandbox(https://codesandbox.io/dashboard/home?workspace=ef82cfc1-7634-4287-9814-56a7ac621125)
