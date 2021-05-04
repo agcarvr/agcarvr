@@ -1,7 +1,7 @@
-<h3 align=center>Erin Carver</h3>
+<h3 align=center><b>Erin Carver</b></h3>
 
 - I’m interested in machine learning and full stack engineering
-- I’m currently learning full stack development
+- I’m currently working in full stack development
 - How to reach me: email agcarvr@gmail.com
 
 [![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agcarvr)](https://github.com/agcarvr/github-readme-stats)
