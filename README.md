@@ -1,4 +1,4 @@
-<h3 align=center><b>Erin Carver</b></h3>
+<h1 align=center><b>Erin Carver</b></h1>
 
 - I’m interested in machine learning and full stack engineering
 - I’m currently working in full stack development
@@ -6,7 +6,7 @@
 
 [![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agcarvr&hide=stars,issues)](https://github.com/agcarvr/github-readme-stats)
 
-## To view some of my practice work:
+<h2 align=center>To view some of my practice work:</h2>
 - Visit my codeSandbox(https://codesandbox.io/dashboard/home?workspace=ef82cfc1-7634-4287-9814-56a7ac621125)
 - Or my REPL (https://replit.com/@aaroncarver)
 
