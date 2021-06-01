@@ -1,6 +1,6 @@
 <h1 align=center><b>Erin Carver</b></h1>
 
-- I’m interested in machine learning and full stack engineering
+- I’m interested in full stack engineering
 - I’m currently working in full stack development
 - How to reach me: email agcarvr@gmail.com
 
