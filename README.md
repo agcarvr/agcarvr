@@ -1,4 +1,4 @@
-<h1 align=center><b>Erin Carver</b></h1>
+<h1 align=center><b>Sammi Carver</b></h1>
 
 - I’m interested in full stack engineering
 - I’m currently working in full stack development
